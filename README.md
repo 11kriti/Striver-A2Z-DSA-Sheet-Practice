@@ -1,2 +1,20 @@
-# Striver-A2Z-DSA-Sheet-Practice
-🚀 This repo contains my solutions to Striver's A2Z DSA Sheet – covering every topic from basics to advanced with code, comments, and explanations. Follow along as I complete 450+ questions for DSA mastery! 💻✨
+# 🚀 Striver A2Z DSA Sheet – My Complete Journey
+
+Welcome to my DSA journey! This repository contains all the solutions to the Striver A2Z DSA Sheet .
+
+## 📌 What's Included?
+- ✅ 450+ Questions
+- 🔄 Covered in topic-wise manner
+- 📂 Language: Python 
+
+## 📚 Topics Covered:
+- Sorting Techniques
+
+
+## 💡 Why this repo?
+- To stay consistent with DSA preparation
+
+---
+
+> “Practice like you’ve never won. Perform like you’ve never lost.” 🔥
+
