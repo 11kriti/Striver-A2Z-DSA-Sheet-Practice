@@ -9,7 +9,8 @@ Welcome to my DSA journey! This repository contains all the solutions to the Str
 
 ## 📚 Topics Covered:
 - Sorting Techniques
-- Arrays 
+- Arrays
+- Binary Search
 
 
 ## 💡 Why this repo?
