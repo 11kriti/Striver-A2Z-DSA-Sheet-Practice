@@ -11,6 +11,7 @@ Welcome to my DSA journey! This repository contains all the solutions to the Str
 - Sorting Techniques
 - Arrays
 - Binary Search
+- Linked List
 
 
 ## 💡 Why this repo?
