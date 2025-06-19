@@ -1,28 +1,20 @@
-
-#binary search
-def binary_search(arr, key):
+#binary search 
+def binary_search(arr , key):
     size = len(arr)
-    start = 0
+    start = 0 
     end = size - 1
     
-    
     while start <= end:
-        mid = (start+end) // 2
-        if arr[mid ]== key:
+        mid = (start + end) //2
+        if arr[mid] == key:
             return mid
-        elif key > arr[mid]:
-            start = mid + 1
-        else:
-            end = mid -1 
+        elif  key > arr[mid]:
+            start = mid +1 
+        else :
+            end = mid-1
     return -1
     
-   
-
-a = [3, 4, 6, 7, 9, 12, 16, 17]
-target = 6
-size = len(a)
-ind = binary_search(a, target)
-if ind == -1:
-    print("The target is not present.")
-else:
-    print("The target is at index:", ind)
+arr = [1,2,4,5,6,7,8,9]
+size = len(arr)
+search = binary_search(arr , 6)
+print(search)
