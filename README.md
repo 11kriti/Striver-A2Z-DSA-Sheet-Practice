@@ -12,6 +12,7 @@ Welcome to my DSA journey! This repository contains all the solutions to the Str
 - Arrays
 - Binary Search
 - Linked List
+- Stack
 
 
 ## 💡 Why this repo?
