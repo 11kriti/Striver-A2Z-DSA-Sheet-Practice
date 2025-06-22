@@ -1,4 +1,4 @@
-#Check if an Array is Sorted
+###Check if an Array is Sorted
 #input : arr = 1,3,5,7,9 , size = 5 , output = true
 def sorted_or_not(arr,size):
     for i in range (size):
