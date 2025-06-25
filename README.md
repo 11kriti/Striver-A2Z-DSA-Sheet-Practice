@@ -13,6 +13,7 @@ Welcome to my DSA journey! This repository contains all the solutions to the Str
 - Binary Search
 - Linked List
 - Stack
+- Queue
 
 
 ## 💡 Why this repo?
