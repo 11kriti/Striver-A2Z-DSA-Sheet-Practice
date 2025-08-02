@@ -1,5 +1,5 @@
 #Last occurrence in a sorted array
-#Input: N = 7, target=13, array[] = {3,4,13,13,13,20,40} , Output: 4
+#Input: N = 7,,target=13, array[] = {3,4,13,13,13,20,40} , Output: 4
 # through linear search
 def last_occur(arr , target):
     size = len(arr)
