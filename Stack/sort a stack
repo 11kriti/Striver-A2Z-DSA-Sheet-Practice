@@ -1,0 +1,16 @@
+def sort_stack_bruteforce(stack):
+    
+    temp_list = []
+    while stack:
+        temp_list.append(stack.pop()) 
+    
+    
+    temp_list.sort()
+    
+
+    for item in temp_list:
+        stack.append(item)  # push back
+    
+    return stack
+Time Complexity: O(n log n) (sorting)
+ Space Complexity: O(n) (list for storing stack elements)
