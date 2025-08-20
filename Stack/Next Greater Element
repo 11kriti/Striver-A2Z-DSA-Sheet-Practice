@@ -1,0 +1,19 @@
+Input:  [4, 5, 2, 25]
+Output: [5, 25, 25, -1]
+def nextGreater_bruteforce(arr):
+    n = len(arr) 
+    result = [-1] * n 
+    
+  
+    for i in range(n):
+      
+        for j in range(i + 1, n):
+           
+            if arr[j] > arr[i]:
+                result[i] = arr[j]  
+                break 
+    
+    return result
+
+
+
